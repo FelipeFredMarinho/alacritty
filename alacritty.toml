@@ -1,0 +1,31 @@
+[window]
+opacity = 0.6
+decorations = "Full"
+
+[font]
+size = 13.0
+normal = { family = "FiraCode Nerd Font", style = "Medium" }
+bold = { family = "FiraCode Nerd Font", style = "Bold" }
+italic = { family = "FiraCode Nerd Font", style = "Italic" }
+bold_italic = { family = "FiraCode Nerd Font", style = "Bold Italic" }
+
+[colors]
+primary.foreground = "#FFFFFF"
+primary.background = "#000000"
+
+normal.black = "#000000"
+normal.red = "#FF0000"
+normal.green = "#00FF00"
+normal.blue = "#0000FF"
+normal.yellow = "#FFFF00"
+normal.cyan = "#00FFFF"
+normal.magenta = "#FF00FF"
+normal.white = "#FFFFFF"
+
+#dim.black = ""
+
+#[keyboard]
+#bindings = [
+#{ key = },
+#}
+
